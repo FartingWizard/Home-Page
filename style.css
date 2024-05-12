@@ -5,5 +5,9 @@ h1{
   background-color:Green;
   color: MediumSeaGreen;
   font-family:Copperplate, Papyrus, Fantasy;
-  <p style="background-image: url(https://i.pinimg.com/736x/98/7f/ba/987fba555a43f2a013dc8f468ce2acbf.jpg);">
+  <p style="background-image: url('https://i.pinimg.com/736x/98/7f/ba/987fba555a43f2a013dc8f468ce2acbf.jpg');">
+    p {
+  background-image: url('https://i.pinimg.com/736x/98/7f/ba/987fba555a43f2a013dc8f468ce2acbf.jpg');
+}
+
 }
