@@ -8,6 +8,7 @@ h1{
 }
 
 h2{ 
+   border:2px DarkOrchid;
    text-align: center;
    color: Bisque;
    font-family:Copperplate, Papyrus, Fantasy;
